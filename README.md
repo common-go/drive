@@ -5,15 +5,13 @@
 - FileService
 
 ## Installation
-
-Please make sure to initialize a Go module before installing common-go/drive:
+Please make sure to initialize a Go module before installing core-go/drive:
 
 ```shell
-go get -u github.com/common-go/drive
+go get -u github.com/core-go/drive
 ```
 
 Import:
-
 ```go
-import "github.com/common-go/drive"
+import "github.com/core-go/drive"
 ```

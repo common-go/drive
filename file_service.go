@@ -2,7 +2,7 @@ package drive
 
 import (
 	"context"
-	. "github.com/common-go/search"
+	. "github.com/core-go/search"
 )
 
 type FileService interface {
